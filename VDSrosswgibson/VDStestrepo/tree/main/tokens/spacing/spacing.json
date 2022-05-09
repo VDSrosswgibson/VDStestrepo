@@ -4,7 +4,7 @@
       "0": {
         "value": "0px",
         "type": "spacing",
-        "description": "Should be used when a spacing token does not need to be applied"
+        "description": " "
       },
       "100": {
         "value": "2px",
