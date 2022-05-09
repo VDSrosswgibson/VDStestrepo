@@ -1,0 +1,22 @@
+{
+  "name": "vdstest",
+  "version": "1.0.0",
+  "description": "Test repo for VDS projects ---------------------------------------- Use this repo to test/set up token processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VDSrosswgibson/VDStestrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VDSrosswgibson/VDStestrepo/issues"
+  },
+  "homepage": "https://github.com/VDSrosswgibson/VDStestrepo#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.7.0"
+  }
+}
