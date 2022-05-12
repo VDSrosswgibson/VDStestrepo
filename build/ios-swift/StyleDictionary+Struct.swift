@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 09 May 2022 23:11:12 GMT
+// Generated on Thu, 12 May 2022 17:23:40 GMT
 
 
 import UIKit
@@ -24,7 +24,7 @@ internal struct StyleDictionaryStruct {
     internal static let spacing1100 = 56px
     internal static let spacing1200 = 64px
     internal static let spacing1300 = 72px
-    internal static let spacing1400 = 80px
+    internal static let spacing1400 = 96px
     internal static let spacing200 = 4px
     internal static let spacing300 = 8px
     internal static let spacing400 = 12px
