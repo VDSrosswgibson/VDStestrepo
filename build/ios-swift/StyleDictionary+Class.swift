@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 12 May 2022 22:21:45 GMT
+// Generated on Fri, 20 May 2022 16:22:57 GMT
 
 
 import UIKit
@@ -24,7 +24,7 @@ public class StyleDictionaryClass {
     public static let spacing1100 = 56px
     public static let spacing1200 = 64px
     public static let spacing1300 = 72px
-    public static let spacing1400 = 80px
+    public static let spacing1400 = 96px
     public static let spacing200 = 4px
     public static let spacing300 = 8px
     public static let spacing400 = 12px
