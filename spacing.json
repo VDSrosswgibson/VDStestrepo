@@ -1,62 +1,62 @@
 {
   "spacing": {
-    "0": {
+    "spacing-0": {
       "value": "0px",
       "type": "spacing"
     },
-    "100": {
+    "spacing-1": {
       "value": "2px",
       "type": "spacing"
     },
-    "200": {
+    "spacing-2": {
       "value": "4px",
       "type": "spacing"
     },
-    "300": {
+    "spacing-3": {
       "value": "8px",
       "type": "spacing"
     },
-    "400": {
+    "spacing-4": {
       "value": "12px",
       "type": "spacing"
     },
-    "500": {
+    "spacing-5": {
       "value": "16px",
       "type": "spacing"
     },
-    "600": {
+    "spacing-6": {
       "value": "20px",
       "type": "spacing"
     },
-    "700": {
+    "spacing-7": {
       "value": "24px",
       "type": "spacing"
     },
-    "800": {
+    "spacing-8": {
       "value": "32px",
       "type": "spacing"
     },
-    "900": {
+    "spacing-9": {
       "value": "40px",
       "type": "spacing"
     },
-    "1000": {
+    "spacing-10": {
       "value": "48px",
       "type": "spacing"
     },
-    "1100": {
+    "spacing-11": {
       "value": "56px",
       "type": "spacing"
     },
-    "1200": {
+    "spacing-12": {
       "value": "64px",
       "type": "spacing"
     },
-    "1300": {
+    "spacing-13": {
       "value": "72px",
       "type": "spacing"
     },
-    "1400": {
+    "spacing-14": {
       "value": "80px",
       "type": "spacing"
     }
